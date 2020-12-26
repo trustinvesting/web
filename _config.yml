@@ -1,2 +1,3 @@
 theme: none
-baseurl: "https://trustinvesting.github.io/web/"
+baseurl: /web
+url: https://trustinvesting.github.io
